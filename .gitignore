@@ -1,21 +1,3 @@
 
 out/
-.idea/
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-.vscode/
-
-.DS_Store
+.idea/1
